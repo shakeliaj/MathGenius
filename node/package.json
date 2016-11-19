@@ -1,0 +1,26 @@
+{
+  "name": "MathGenius",
+  "version": "7.1.0",
+  "description": "node",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^3.10.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakeliaj/MathGenius.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Shakelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakeliaj/MathGenius/issues"
+  },
+  "homepage": "https://github.com/shakeliaj/MathGenius#readme"
+}
